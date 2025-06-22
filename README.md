@@ -1,5 +1,5 @@
 # Hello, I'm Apurva Ingale
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/apurva-ingale"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate cybersecurity graduate student with a strong foundation in network security, full-stack development, and data engineering. With hands-on experience in vulnerability assessments, data pipelines, and threat detection, I aim to bridge the gap between security and technology through continuous learning and real-world application.
 
